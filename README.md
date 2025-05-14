@@ -28,17 +28,4 @@ This project is based on the concepts of Augmented Reality (AR) and Marker Detec
 
 2. Place `face.jpg`, `happy.png`, and `sad.png` in the same directory.
 
-3. Run the script:
-
-## Notes
-
-- This is a simple demonstration of AR overlay using basic color analysis.
-- PNG emoji images must have an alpha (transparency) channel.
-- No actual facial expression recognition is used — this is a visual AR simulation.
-
-## Related Project Inspiration
-
-Originally based on an AR Traffic Signal Simulation project:
-- Detect real traffic light colors (red/green) from an image.
-- Overlay AR signs (e.g., STOP, GO) virtually above the lights.
-- Swapped that concept to emotion-based overlay using the same code logic.
+3. Run the script: python main.py
